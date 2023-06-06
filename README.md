@@ -1,7 +1,5 @@
 # Min-theme
 
-# User Friendly UI for VSCode
-
 ## Overview
 
 The User Friendly UI theme for Visual Studio Code (VSCode) is designed to ease the learning curve for new programmers. This theme simplifies the complex and often overwhelming aspects of the code editor into a straightforward and user-friendly interface. Key features are highlighted, while more advanced elements are subtly tucked away, allowing beginners to focus on the essentials of coding.
